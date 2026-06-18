@@ -11,9 +11,14 @@
 <br/>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Cyrill%20Etter-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cyrilletter)
-[![viberank](https://img.shields.io/badge/viberank-SUPERNOVA%20tier-FF7A00?style=for-the-badge&logo=fireship&logoColor=white)](https://viberank.app/profile/B-EtterDigital)
-[![CYNAPS3](https://img.shields.io/badge/CYNAPS3-cynaps3.io-7C3AED?style=for-the-badge&logo=soundcharts&logoColor=white)](https://cynaps3.io)
+[![viberank](https://img.shields.io/badge/viberank-SUPERNOVA%20tier-FF7A00?style=for-the-badge)](https://viberank.app/profile/B-EtterDigital)
 [![Followers](https://img.shields.io/github/followers/B-EtterDigital?style=for-the-badge&color=222)](https://github.com/B-EtterDigital)
+
+<br/>
+
+[![C0Vibe](https://img.shields.io/badge/C0Vibe-c0vibe.app-FF7A00?style=for-the-badge&logo=electron&logoColor=white)](https://c0vibe.app)
+[![CYNAPS3](https://img.shields.io/badge/CYNAPS3-cynaps3.app-7C3AED?style=for-the-badge)](https://cynaps3.app)
+[![7Cycle](https://img.shields.io/badge/7Cycle-7cycle.life-22C55E?style=for-the-badge)](https://7cycle.life)
 
 </div>
 
@@ -39,13 +44,13 @@ Today I run **Better Digital** (Thailand) as a one-person creative studio. Fluen
 
 Three flagships. Each one local-first, privacy-respecting, and built end-to-end.
 
-### ⚡ C0Vibe — a local-first AI super-app
+### ⚡ [C0Vibe](https://c0vibe.app) — a local-first AI super-app
 My flagship. A clean Electron desktop app that keeps your AI *close to you* — **offline Whisper voice dictation**, **local LLMs**, AI chat, screen capture, and rock-solid cross-application text injection. It runs on my own **Sweet Spot Architecture** (pure-serverless Supabase + Electron — no servers to babysit), organised into five flagship modules — **capture · chat · dictate · collect · track** — behind a single super-app shell. Privacy is structural, not a checkbox: a built-in observability layer sanitises PHI/PII by design (HIPAA-conscious), so it's at home with coders, creators, streamers *and* clinicians. Quietly shipping real releases. Solo.
 
-### 🎨 CYNAPS3 — a creative-AI engine · [cynaps3.io](https://cynaps3.io)
+### 🎨 [CYNAPS3](https://cynaps3.app) — a creative-AI engine
 Turning prompts into **music** (*Musicmation*), **stories** (*Storymation*), and more. Built as a composable, agent-skill platform with proper OAuth 2.0 + PKCE auth, so independent creators get studio-grade generation without studio-grade overhead.
 
-### 🌀 7Cycle — wellness, designed like a product
+### 🌀 [7Cycle](https://7cycle.life) — wellness, designed like a product
 Not a habit-tracker bolted onto guilt. Mood check-ins, meditation, journaling, gentle habit loops, a content pipeline and a community — organised around a **seven-stage cycle of growth**. Technology in service of calm.
 
 > 🛠️ Plus the quiet scaffolding underneath: **OpenClaw** (my own agent + skills framework) and **Hermes** (my music-AI) — the engines a solo studio runs on.
