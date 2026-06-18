@@ -110,3 +110,5 @@ I build because making things *is* the point — not the exit. Small, creative, 
 *Let's build something with soul.* ⚡
 
 </div>
+
+<!-- profile -->
