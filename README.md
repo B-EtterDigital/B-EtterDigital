@@ -26,7 +26,7 @@
 
 ## 🌱 Who I Am
 
-A one-person creative studio under the banner of **B-etter.Digital**. I design it, build it, write it, score it, and ship it — usually all of it, myself. I care less about scale and more about *soul*: software and games that feel made by a human, for humans.
+A one-person creative studio under the banner of **Better Digital LLC**. I design it, build it, write it, score it, and ship it — usually all of it, myself. I care less about scale and more about *soul*: software and games that feel made by a human, for humans.
 
 Pioneer by instinct, humble by choice. I'd rather quietly ship something that genuinely matters than loudly chase a market. I'm still early — but I've been building the future in the open, one passion project at a time.
 
@@ -36,7 +36,7 @@ Pioneer by instinct, humble by choice. I'd rather quietly ship something that ge
 
 Swiss-born, **Berlin-trained**, **Bangkok-based**. Two decades around **games & interactive media** — formally schooled at **Games Academy Berlin** (Game Design & Game Art), with **Producer / Creative Director** roots across the European and Asian games scene. Along the way: hands-on **interactive installations & exhibits** in the **Game Science Center** world — the physical, playful kind of work that lives in museums, fairs and science centers.
 
-Today I run **Better Digital** (Thailand) as a one-person creative studio. Fluent across **German · English · French** — and across disciplines.
+Today I run **Better Digital LLC** (Thailand, Laos - as Digital Nomad) as a one-person creative studio. Fluent across **German · English** — and across disciplines.
 
 ---
 
@@ -53,7 +53,7 @@ Turning prompts into **music** (*Musicmation*), **stories** (*Storymation*), and
 ### 🌀 [7Cycle](https://7cycle.life) — wellness, designed like a product
 Not a habit-tracker bolted onto guilt. Mood check-ins, meditation, journaling, gentle habit loops, a content pipeline and a community — organised around a **seven-stage cycle of growth**. Technology in service of calm.
 
-> 🛠️ Plus the quiet scaffolding underneath: **OpenClaw** (my own agent + skills framework) and **Hermes** (my music-AI) — the engines a solo studio runs on.
+
 
 ---
 
@@ -61,7 +61,7 @@ Not a habit-tracker bolted onto guilt. Mood check-ins, meditation, journaling, g
 
 I tried every AI coding tool out there… *once.*
 
-Then I built **C0Vibe** and **OpenClaw** — and now when I look at my own usage leaderboard, half the tools on it (**OpenClaw**, **Hermes**) are ones *I shipped myself*, sitting right next to Claude, Codex, Gemini and OpenCode.
+Then I built **C0Vibe**  and now when I look at my own usage leaderboard, half the tools on it (**OpenClaw**, **Hermes**) are ones *I shipped myself*, sitting right next to Claude, Codex, Gemini and OpenCode.
 
 Turns out the best tool was the one I made. 🛠️
 
